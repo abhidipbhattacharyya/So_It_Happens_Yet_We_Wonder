@@ -2,7 +2,7 @@
 
 [Abhidip Bhattacharyya](https://abhidipbhattacharyya.github.io/) · [Shira Wein](https://shirawein.github.io/)
 
-📄 [Paper](#) · 🤗 [Dataset](#) · 💻 [Code](#)
+📄 [Paper](#) · 🤗 [Dataset](https://github.com/abhidipbhattacharyya/So_It_Happens_Yet_We_Wonder/tree/main/Discursive-Circuits/data) · 💻 [Code](#)
 
 ![Overview](assets/image.png)
 
