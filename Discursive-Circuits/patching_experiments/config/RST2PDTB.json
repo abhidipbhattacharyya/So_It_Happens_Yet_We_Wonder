@@ -1,0 +1,19 @@
+{
+    "joint-list_m": "Expansion.Conjunction",
+    "joint-sequence_m": "Temporal.Asynchronous.Precedence",
+    "elaboration-additional_r": "Expansion.Level-of-detail.Arg2-as-detail",
+    "context-circumstance_r": "Temporal.Synchronous",
+    "adversative-concession_r": "Comparison.Concession.Arg2-as-denier",
+    "causal-cause_r": "Contingency.Cause.Reason",
+    "causal-result_r": "Contingency.Cause.Result",
+    "adversative-contrast_m": "Comparison.Contrast",
+    "explanation-justify_r": "Contingency.Cause.Reason",
+    "context-background_r": "Expansion.Conjunction",
+    "joint-other_m": "Expansion.Conjunction",
+    "adversative-antithesis_r": "Comparison.Contrast",
+    "explanation-evidence_r": "Contingency.Cause.Reason",
+    "evaluation-comment_r": "Contingency.Cause.Reason",
+    "explanation-motivation_r": "Contingency.Cause.Reason",
+    "restatement-repetition_m": "Expansion.Equivalence",
+    "joint-sequence_r": "Temporal.Asynchronous.Precedence"
+}

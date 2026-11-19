@@ -1,0 +1,15 @@
+{
+    "Comparison.Concession.Arg2-as-denier": "Comparison.Concession.Arg2-as-denier",
+    "Comparison.Contrast": "Comparison.Contrast",
+    "Contingency.Cause.Reason": "Contingency.Cause.Reason",
+    "Expansion.Level-of-detail.Arg1-as-detail": "Expansion.Level-of-detail.Arg1-as-detail",
+    "Expansion.Level-of-detail.Arg2-as-detail": "Expansion.Level-of-detail.Arg2-as-detail",
+    "Contingency.Cause.Result": "Contingency.Cause.Result",
+    "Expansion.Conjunction": "Expansion.Conjunction",
+    "Expansion.Instantiation.Arg2-as-instance": "Expansion.Instantiation.Arg2-as-instance",
+    "Temporal.Asynchronous.Precedence": "Temporal.Asynchronous.Precedence",
+    "Temporal.Synchronous": "Temporal.Synchronous",
+    "Expansion.Equivalence": "Expansion.Equivalence",
+    "Expansion.Substitution.Arg2-as-subst": "Expansion.Substitution.Arg2-as-subst",
+    "Temporal.Asynchronous.Succession": "Temporal.Asynchronous.Succession"
+}

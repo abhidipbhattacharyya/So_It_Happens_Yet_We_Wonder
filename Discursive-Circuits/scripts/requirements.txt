@@ -1,0 +1,8 @@
+auto-circuit
+matplotlib
+kaleido
+
+# Note that auto-circuit already contains the dependencies of transformers, torch, etc. 
+# We recommend installing auto-circuit first, and then install the other dependencies (e.g. plotting software like matplotlib). 
+# However, our experiments are using our customized code for the auto-circuit package, which will be imported automatically (in `circuit_discovery.py`). 
+# By installing the default auto-circuit package, this is more convenient for installing the required dependencies. 

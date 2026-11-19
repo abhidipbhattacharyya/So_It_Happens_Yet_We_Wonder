@@ -1,0 +1,56 @@
+__pycache__/
+.DS_Store
+.vscode
+.idea
+.pytest_cache
+
+# Python virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Logs
+*.log
+logs/
+
+# Local development settings
+.env
+.env.local
+
+# Database files
+*.db
+*.sqlite3
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Temporary files
+*.swp
+*~
+.*.swp
+.~*
+
+# Cache directories
+.cache/
+.pytest_cache/
+
+# Documentation
+docs/_build/

@@ -1,0 +1,12 @@
+{
+    "Acknowledgement": "Expansion.Equivalence",
+    "Comment": "Expansion.Conjunction", 
+    "Continuation": "Expansion.Conjunction",
+    "Contrast": "Comparison.Contrast",
+    "Correction": "Comparison.Concession.Arg2-as-denier",
+    "Elaboration": "Expansion.Level-of-detail.Arg2-as-detail",
+    "Explanation": "Contingency.Cause.Reason",
+    "Narration": "Temporal.Asynchronous.Precedence",
+    "Parallel": "Expansion.Conjunction",
+    "Result": "Contingency.Cause.Result"
+}
